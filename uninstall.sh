@@ -28,7 +28,9 @@ if [[ $input == Yes || $input == yes || $input == y || $input == Y ]]; then
     cd /data/data/com.termux/files/usr/etc
     rm -rf bash.bashrc
     cd $HOME
-    mv bash.bashrc /data/data/com.termux/files/usr/etc
+    cp bash.bashrc /data/data/com.termux/files/usr/etc
+    cd $HOME 
+    rm -rf default
     echo -e "\e[1;91mSuccessfully Uninstalled"
     echo -e "Restart Termux"
     exit  3
