@@ -3,6 +3,7 @@ With the help of this tool you can change your termux shell to look like parrot 
 <p align="center">
   <img src="https://1.bp.blogspot.com/-8J6nXMm4Fn4/X1nN5SrLvkI/AAAAAAAAAQ0/J8TNfruwGEgiAfOKxIiRD_q3dKOGUl-XQCLcBGAsYHQ/s530/Screenshot_20200910_122015.png" width="470" height="250">
 </p>
+
 ## How to Install Parrot Shell In Termux.
 
 `$ cd $HOME`
@@ -22,7 +23,7 @@ With the help of this tool you can change your termux shell to look like parrot 
 `$ Yes`
 Now Restart Termux.
 
-##How To Uninstall Parrot Shell From Termux.
+## How To Uninstall Parrot Shell From Termux.
 
 `$ cd $HOME`
 
@@ -31,7 +32,7 @@ Now Restart Termux.
 `$ bash uninstall.sh`
 Now Restart Termux
 
-##Watch Video Tutorial From Below.
+## Watch Video Tutorial From Below.
 * www.youtube.com/c/TermuxProfessor
 ---
 
